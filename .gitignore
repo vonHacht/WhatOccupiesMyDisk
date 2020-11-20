@@ -33,4 +33,7 @@
 
 # My
 .vs/
+# Binary outputs + more
 WhatOccupiesMyDisk/bin/
+# Object output + more
+WhatOccupiesMyDisk/obj/
